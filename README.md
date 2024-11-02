@@ -1,4 +1,4 @@
-# 👋 Hello! I'm John Mark
+# 👋 Hello! I'm Mark Lallego
  _Ancora Imparo_
 
 I'm just a student and I'm still learning. 😉
