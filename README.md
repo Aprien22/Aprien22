@@ -1,6 +1,7 @@
 # 👋 Hello! I'm John Mark
+ _Ancora Imparo_
 
-I'm a student and aspiring developer currently learning the fundamentals of programming with C and Python. I have a strong interest in game development, which I've explored through a few projects in **Godot** using **GDScript**. I’m here to learn, build, and collaborate with others in the tech community!
+I'm just a student and I'm still learning. 😉
 
 ---
 
@@ -10,7 +11,7 @@ I'm a student and aspiring developer currently learning the fundamentals of prog
 - **WebDevelopment:** HTML, CSS, & JavaScript
 - **Game Development:** GDScript & C#
 
-_Im organized don't worry, I tackle them one at a time :)_
+_I'm organized don't worry, I tackle them one at a time_😇
 
 ---
 
@@ -37,7 +38,7 @@ _Im organized don't worry, I tackle them one at a time :)_
 ## 🔨 Projects
 
 ### Kemi's Balancing Equation
-Description: A simple gamified project about Chemistry's **Balancing Equation**. It's for a school project :3
+Description: A simple gamified project about Chemistry's **Balancing Equation**. It's for a school project 😎
 
 Tech stack: Godot, GDScript
 
@@ -57,7 +58,7 @@ Tech stack: Godot, GDScript
 - **Facebook:** [lallegomark@gmail.com](https://www.facebook.com/johnmark.lallego)
 - **Instagram:** [https://www.instagram.com/kwesjohnmark/](https://www.instagram.com/kwesjohnmark/)
 
-I’m always interested in connecting with fellow learners and developers. Feel free to reach out. I don't bite :D
+I’m always interested in connecting with fellow learners and developers. Feel free to reach out. I don't bite 😃
 
 ---
 
