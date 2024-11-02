@@ -55,7 +55,7 @@ Tech stack: Godot, GDScript
 
 ## 📱 Socials
 
-- **Facebook:** [lallegomark@gmail.com](https://www.facebook.com/johnmark.lallego)
+- **Facebook:** [https://www.facebook.com/johnmark.lallego](https://www.facebook.com/johnmark.lallego)
 - **Instagram:** [https://www.instagram.com/kwesjohnmark/](https://www.instagram.com/kwesjohnmark/)
 
 I’m always interested in connecting with fellow learners and developers. Feel free to reach out. I don't bite 😃
