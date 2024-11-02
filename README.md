@@ -11,7 +11,7 @@ I'm just a student and I'm still learning. 😉
 - **WebDevelopment:** HTML, CSS, & JavaScript
 - **Game Development:** GDScript & C#
 
-_I'm organized don't worry, I tackle them one at a time_😇
+_I'm organized don't worry, I tackle them one at a time_ 😇
 
 ---
 
